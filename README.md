@@ -1,7 +1,7 @@
 
-# CYBERPUNK
+# CS50 Quest
 
-Project Title: CYBERPUNK
+Project Title: CS50 Quest
 
 # Third-Party Library Usage:
 I have used a third party library, created by Will_Wam, to print text on the scratch screen. Needing more styles than the Say block offered to create a more immersive experience, and limited time due to a full-time job as a programmer, I decided to use the library instead of building a text engine from scratch. However, all the logic written around the game was fully coded by me.
